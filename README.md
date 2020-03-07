@@ -1,1 +1,1 @@
-# kaur_harshpreet_SVG_s
+it's a many-splendored thing, or it's all you need — sometimes it's even a battlefield. There are times when words fail us in matters of the heart, so it's nice to know that we can turn to the world's most famous authors, musicians, and poets for a take on love that will make us feel understood. After all, is there a better way to celebrate Valentine's Day than by celebrating some of the best things ever said about love?

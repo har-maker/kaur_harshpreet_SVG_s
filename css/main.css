@@ -1,0 +1,74 @@
+.img-wrapper {
+  display: inline-block;
+  width: 40%;
+  padding: 10px 15px;
+  }
+
+.img-wrapper img { width:100%; }
+
+.black-bg { background-color: black;}
+
+/* change the SVG graphic artwork with CSS!
+#lGrain:hover, #eGrain:hover { fill: red; }*/
+
+#beerGraphic:hover #rGrain { fill: red;}
+#beerGraphic:hover #lGrain_1_ { fill: red;}
+
+#beerGraphic:hover #lStar { fill: yellow;}
+#beerGraphic:hover #rStar { fill: yellow;}
+
+#ballons:hover #cls-1 {fill: pink;}
+#ballons:hover #cls-2 {fill: purple;}
+
+
+#moon:hover #cls-1 {fill: red;}
+#moon:hover #cls-2 {fill: red;}
+#moon:hover #moon {fill: pink;}
+
+#lips:hover #cls-1 {fill: red;}
+#lips:hover #cls-2 {fill: red;}
+#lips:hover #cls-3 {fill: pink;}
+
+#birds:hover #cls-1 {fill: red;}
+#birds:hover #cls-2 {fill: red;}
+#birds:hover #cls-3 {fill: pink;}
+
+
+#calender:hover #cls-1 {fill: red;}
+#calender:hover #cls-2 {fill: red;}
+#calender:hover #cls-4 {fill: purple;}
+#calender:hover #cls-5 {fill: purple;}
+
+#candles:hover #cls-1 {fill: red;}
+#candles:hover #cls-2 {fill: purple;}
+#candles:hover #cls-3 {fill: purple;}
+#candles:hover #cls-4 {fill: purple;}
+
+#chat:hover #cls-1 {fill: red;}
+#chat:hover #cls-2 {fill: purple;}
+#chat:hover #cls-3 {fill: purple;}
+
+#gift:hover #cls-1 {fill: red;}
+#gift:hover #cls-2 {fill: purple;}
+#gift:hover #cls-3 {fill: purple;}
+#gift:hover #cls-5 {fill: purple;}
+#gift:hover #cls-6 {fill: purple;}
+
+#cups:hover #cls-1 {fill: red;}
+#cups:hover #cls-2 {fill: red;}
+#cups:hover #cls-6 {fill: red;}
+#cups:hover #cls-7 {fill: red;}
+
+#letter:hover #cls-1 {fill: red;}
+#letter:hover #cls-2 {fill: red;}
+#letter:hover #cls-4 {fill: red;}
+#letter:hover #cls-5 {fill: red;}
+
+#teddy_bear:hover #cls-1 {fill: pink;}
+#teddy_bear:hover #cls-4 {fill: red;}
+#teddy_bear:hover #cls-5 {fill: red;}
+
+#wine:hover #cls-1 {fill: pink;}
+#wine:hover #cls-4 {fill: red;}
+#wine:hover #cls-5 {fill: red;}
+#wine:hover #cls-6 {fill: red;}
